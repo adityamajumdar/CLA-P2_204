@@ -8,7 +8,13 @@ This program is a railway reservation system which basically books the ticket of
 2. If a passenger wishes to cancel his ticket, he may cancel. Then the passenger in waiting list is booked automatically.
 3. Displays all the contents of reserved passengers.
 
+
+
 This program is made with basic C programming concepts like arrays , function , string , pointer etc.
+
+
+
+
 
 Made by
 ADITYA MAJUMDAR
